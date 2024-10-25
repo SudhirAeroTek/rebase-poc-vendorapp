@@ -7,7 +7,9 @@
 "prdfix_1" : "urgency_1",
 "country": "india",
 "street": "hitech",
-"pincode": "50001"
+"pincode": "50001",
+"prdfix_2" : "urgency_2"
+
 
 }
 
